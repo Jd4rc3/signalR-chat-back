@@ -1,0 +1,3 @@
+[submodule "signalR-chat-front"]
+	path = Chat
+	url = git@github.com:Jd4rc3/signalR-chat-front.git
